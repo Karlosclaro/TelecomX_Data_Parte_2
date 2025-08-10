@@ -1,11 +1,3 @@
-Parece que houve um erro ao tentar gerar o conteúdo do README — o texto estava muito longo e acabou cortado antes de ser finalizado corretamente. Vamos resolver isso em partes para garantir que tudo fique bem estruturado e com ilustrações.
-
-### 📘 Estrutura do README.md
-
-Aqui está uma proposta inicial para o seu README com emojis e seções bem organizadas:
-
----
-
 # 📊 Projeto Telecom X - Previsão de Churn (Parte 2)
 
 ## 🎯 Propósito da Análise
