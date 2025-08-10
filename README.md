@@ -63,7 +63,7 @@ pip install pandas scikit-learn matplotlib seaborn imbalanced-learn
 
 ---
 
-## 📌 
+## 📌 Resumo gráfico de algunas informações extraídas dos dados processados por ML.
 🔄 Diagrama de Fluxo do Projeto
 Este diagrama resume as etapas principais do projeto:
 <img width="674" height="753" alt="grafico do processo" src="https://github.com/user-attachments/assets/145170b9-8c17-4613-929f-928e719075b7" />
