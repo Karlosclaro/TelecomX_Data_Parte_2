@@ -9,7 +9,7 @@ Este projeto tem como objetivo prever a evasão (churn) de clientes de uma empre
 
 ```
 📁 TelecomX-Churn/
-├── 📓 nome_do_seu_notebook.ipynb
+├── 📓 Telecom X – Parte 2.ipynb
 ├── 📄 TelecomX_Data_filtrado_com_churn.json
 ├── 📁 data_processed/ (opcional)
 ├── 📁 visualizations/ (opcional)
